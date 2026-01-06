@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hello, I'm Ekaterina Katerinenko
+<a href="https://www.linkedin.com/in/ekaterina-katerinenko"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**e-katerinenko/e-katerinenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CompTIA Security+ certified cybersecurity student with strong foundational knowledge in network defense, threat detection and incident response gained through extensive hands-on labs. 
 
-Here are some ideas to get you started:
+## Objective
+Eager to apply my passion for cybersecurity and analytical skills and contribute to a security team, specifically joining a SOC as a Tier 1 Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | tbd |
+| Network Traffic Monitoring and Attack Detection | tbd |
+| Incident Response Planning and Execution      | tbd |
+
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Sysmon-00A4EF?&style=for-the-badge&logo=Sysmon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4B275F?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-0078D4?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+- Home lab
+- Incident Response Planning
