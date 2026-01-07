@@ -4,7 +4,7 @@
 I am a CompTIA Security+ certified cybersecurity student with strong foundational knowledge in network defense, threat detection and incident response gained through extensive hands-on labs. 
 
 ## Objective
-Eager to apply my passion for cybersecurity and analytical skills and contribute to a security team, specifically joining a SOC as a Tier 1 Analyst.
+Seeking an entry-level SOC Analyst (Tier 1) position where I can contribute to security monitoring, alert triage, and incident investigation while continuing to develop my skills in detection and response.
 
 ## Skills
 
@@ -12,7 +12,7 @@ Eager to apply my passion for cybersecurity and analytical skills and contribute
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab </a> |
 | Network Traffic Monitoring and Attack Detection | <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab </a>  |
-| Incident Response Planning and Execution      | <a href='https://github.com/e-katerinenko/Incident-Response-Planning'>Incident Response Planning </a>  |
+| Incident Response Planning and Documentation     | <a href='https://github.com/e-katerinenko/Incident-Response-Planning'>Incident Response Planning </a>  |
 
 
 ## Tools
