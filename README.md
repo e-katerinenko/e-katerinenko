@@ -1,4 +1,4 @@
-# Hello, I'm Ekaterina Katerinenko
+# Hello, I'm Ekaterina
 <a href="https://www.linkedin.com/in/ekaterina-katerinenko"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a CompTIA Security+ certified cybersecurity student with strong foundational knowledge in network defense, threat detection and incident response gained through extensive hands-on labs. 
@@ -19,21 +19,35 @@ Eager to apply my passion for cybersecurity and analytical skills and contribute
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zeek-1F6AE1?style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/YARA-000000?style=for-the-badge&logo=YARA&logoColor=white" />
+    <img src="https://img.shields.io/badge/Brim-00A3E0?style=for-the-badge&logo=Brim&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tshark-4CAF50?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Sysmon-00A4EF?&style=for-the-badge&logo=Sysmon&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-4B275F?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sysmon-00A4EF?style=for-the-badge&logo=Sysmon&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sysinternals-0078D4?style=for-the-badge&logo=Sysinternals&logoColor=white" />
+    <img src="https://img.shields.io/badge/osquery-4CAF50?style=for-the-badge&logo=osquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-4B275F?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-0078D4?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Forensics
+<div>
+  <img src="https://img.shields.io/badge/Autopsy-0078D4?style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redline-D32F2F?style=for-the-badge&logo=Redline&logoColor=white" />
+    <img src="https://img.shields.io/badge/KAPE-6A1B9A?style=for-the-badge&logo=KAPE&logoColor=white" />
+    <img src="https://img.shields.io/badge/Volatility-263238?style=for-the-badge&logo=Volatility&logoColor=white" />
+    <img src="https://img.shields.io/badge/Velociraptor-2E7D32?style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ## Certifications
