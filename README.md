@@ -42,9 +42,15 @@ Eager to apply my passion for cybersecurity and analytical skills and contribute
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## TryHackME
+## TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/KatKat.png" alt="Your Image Badge" />
 
+- [x] SOC Level 1 path - Completed
+- [x] Security Engineer path - Completed
+- [x] Web Fundamentals path - Completed
+- [x] Advent of Cyber 2025 - Completed
+
+  
 ## Projects
 - <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab</a>
 - <a href='https://github.com/e-katerinenko/Incident-Response-Planning'>Incident Response Planning</a>
