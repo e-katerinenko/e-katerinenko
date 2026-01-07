@@ -11,7 +11,6 @@ Eager to apply my passion for cybersecurity and analytical skills and contribute
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab </a> |
-| SIEM Implementation and Log Analysis          | <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab </a>  |
 | Network Traffic Monitoring and Attack Detection | <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab </a>  |
 | Incident Response Planning and Execution      | <a href='https://github.com/e-katerinenko/Incident-Response-Planning'>Incident Response Planning </a>  |
 
