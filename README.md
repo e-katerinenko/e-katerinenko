@@ -11,7 +11,7 @@ Seeking an entry-level SOC Analyst (Tier 1) position where I can contribute to s
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab </a> |
-| Network Traffic Monitoring and Attack Detection | <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab </a>  |
+| Network Traffic Monitoring and Attack Detection | <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab </a> <br> <a href='https://github.com/e-katerinenko/nmap-detection'>Detecting Nmap Scans with Wireshark</a> 
 | Incident Response Planning and Documentation     | <a href='https://github.com/e-katerinenko/Incident-Response-Planning'>Incident Response Planning </a>  |
 
 
@@ -67,3 +67,6 @@ Seeking an entry-level SOC Analyst (Tier 1) position where I can contribute to s
 ## Projects
 - <a href='https://github.com/e-katerinenko/Home-lab'>Detection and Response Lab</a>
 - <a href='https://github.com/e-katerinenko/Incident-Response-Planning'>Incident Response Planning</a>
+- <a href='https://github.com/e-katerinenko/nmap-detection'>Detecting Nmap Scans with Wireshark</a>
+  
+
